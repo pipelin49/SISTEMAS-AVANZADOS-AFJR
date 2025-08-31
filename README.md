@@ -14,12 +14,14 @@ Un ayuntamiento quiere fomentar el uso de la bicicleta como medio de transporte 
 | NAVARRETE VARGAS   | WENDY KATHERINE  | (ENCARGADA DE PREGUNTAS 3, 4 Y 5)
 | JIMENEZ RUEDA      | ANDRES FELIPE    | (ENCARGADO DE PREGUNTAS 1, 2 Y 3)
 
- | Rama de GitHub  |
-(https://github.com/wendyka18/BICI-AL-TRABAJO/commits?author=wendyka18)  // 
-
+ | Rama de GitHub                                                          |
+ |-------------------------------------------------------------------------|
+ | (https://github.com/wendyka18/BICI-AL-TRABAJO/commits?author=wendyka18) |  
+ 
 
  | Enlace a Colab |
-https://colab.research.google.com/github/wendyka18/BICI-AL-TRABAJO/blob/main/Taller_Bici_al_Trabajo.ipynb 
+ |----------------------------------------------------------------------------------------------------------|
+ |https://colab.research.google.com/github/wendyka18/BICI-AL-TRABAJO/blob/main/Taller_Bici_al_Trabajo.ipynb |
 
 
 *Nota: Cada integrante debe actualizar su fila con el enlace a su propia copia de trabajo en Google Colab.*
